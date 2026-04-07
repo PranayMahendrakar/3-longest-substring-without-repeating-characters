@@ -4,3 +4,4 @@
 - [2026-04-07T14:19:27Z] feat: add helper utility function
 - [2026-04-07T08:06:53Z] docs: improve inline documentation
 - [2026-04-07T15:11:39Z] style: apply consistent code formatting
+- [2026-04-07T10:21:15Z] fix: handle null pointer exception
